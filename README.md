@@ -8,3 +8,9 @@ Resources:
 - Appium Element Inspector(web) - https://inspector.appiumpro.com/
 - Appium java client dependency - https://mvnrepository.com/artifact/io.appium/java-client
 - Android Studio - https://developer.android.com/studio?gclid=EAIaIQobChMIt_v95K3H_wIVkNPICh2b9g0rEAAYASAAEgKvNfD_BwE&gclsrc=aw.ds
+
+Setting up ENV varibales / path
+===============================
+JAVA_HOME
+MAVEN_HOME
+ANDROID_HOME
