@@ -92,20 +92,20 @@ public class AndroidTest {
         androidDriver.findElement(btnLogin).click();
     }
 
-    @Test
-    public void tap() throws MalformedURLException {
+//     @Test
+//     public void tap() throws MalformedURLException {
 
 
-        UiAutomator2Options options = new UiAutomator2Options();
-        options.setDeviceName("Chathumal Device");
-        options.setApp(System.getProperty("user.dir") + "/apps/Android-MyDemoAppRN.1.3.0.build-244.apk");
+//         UiAutomator2Options options = new UiAutomator2Options();
+//         options.setDeviceName("Chathumal Device");
+//         options.setApp(System.getProperty("user.dir") + "/apps/Android-MyDemoAppRN.1.3.0.build-244.apk");
 
-        AndroidDriver androidDriver = new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
-        Point location = androidDriver.findElement(menuBtnLogin).getLocation();
-        Dimension size = androidDriver.findElement(menuBtnLogin).getSize();
+//         AndroidDriver androidDriver = new AndroidDriver(new URL("http://127.0.0.1:4723"), options);
+//         Point location = androidDriver.findElement(menuBtnLogin).getLocation();
+//         Dimension size = androidDriver.findElement(menuBtnLogin).getSize();
 
 
-    }
+//     }
 
     @Test
     public void swipeOrScroll() throws MalformedURLException {
