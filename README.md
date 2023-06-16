@@ -1,4 +1,4 @@
-# Appium2.0
+# Appium2.0 Learning
 
 Resources:
 =========
