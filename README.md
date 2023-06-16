@@ -19,5 +19,5 @@ Setting up ENV varibales / path
 Appium Inspector
 ===============
 
-![image](https://github.com/cozyloon/Appium2.0/assets/38062287/58ab20e5-b1e4-4e69-a2e9-7233d5b2356f)
+![image](https://github.com/cozyloon/Appium2.0/assets/38062287/100d60dd-5ab2-445d-99fc-844bd03c72cb)
 
