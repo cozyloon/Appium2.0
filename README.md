@@ -3,7 +3,8 @@
 Resources:
 =========
 - Appium Installer - https://www.npmjs.com/package/appium-installer
-- Sauce Lab Demo App - https://github.com/saucelabs/my-demo-app-rn
+- Sauce Lab Demo App APK - https://github.com/saucelabs/my-demo-app-rn
+- Api Demo app APK - https://github.com/appium/android-apidemos/releases
 - Appium Element Inspector(desktop) - https://github.com/appium/appium-inspector/releases
 - Appium Element Inspector(web) - https://inspector.appiumpro.com/
 - Appium java client dependency - https://mvnrepository.com/artifact/io.appium/java-client
