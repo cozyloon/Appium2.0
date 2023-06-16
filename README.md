@@ -11,6 +11,6 @@ Resources:
 
 Setting up ENV varibales / path
 ===============================
-JAVA_HOME
-MAVEN_HOME
-ANDROID_HOME
+- JAVA_HOME
+- MAVEN_HOME
+- ANDROID_HOME
